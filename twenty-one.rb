@@ -5,7 +5,7 @@ WINNING_VALUE = 21
 DECISION_VALUE = 17
 
 def prompt(string)
-  puts "--> #{string}"
+  puts "---> #{string}"
 end
 
 def initialized_deck
